@@ -1,1 +1,1 @@
-Hello Everyone in class GCH0716 
+Hello
