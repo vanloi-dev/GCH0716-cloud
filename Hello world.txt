@@ -2,3 +2,5 @@ Test first
 Test second
 test 3rd
 Test 4th
+--
+thay doi o branch Master sau khi da tao Fixbug
