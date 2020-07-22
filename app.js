@@ -51,7 +51,7 @@ app.get('/help',function(req,res){
 
 app.get('/login',function(req,res){
     let p = path.join(__dirname) +'/login.html';
-    res.sendFile(p);GCH16548
+    res.sendFile(p);
 })
 app.post('/doLogin',function(req,res){
     let name = req.body.txtName;
